@@ -1,4 +1,4 @@
-# Comando para gerar chave do GitHub:cat:
+# Comando para gerar chave ssh do GitHub:cat:
 
 ### Passo 1
 
